@@ -1,2 +1,2 @@
-# LinutMintCinnamon-setup
+# LinuxMintCinnamon-setup
 Setup script (and files) for my personal configuration for Linux Mint (Cinnamon)
